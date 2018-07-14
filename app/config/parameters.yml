@@ -1,0 +1,5 @@
+# This file is auto-generated during the composer install
+parameters:
+    secret: ThisTokenIsNotSoSecretChangeIt
+    env(DB_URL): 'mysql://root:FQTAADA6F3FLsPPgKwPN@192.168.1.12/eos'
+    env(REDIS_URL): 'redis://root@127.0.0.1:6379'
